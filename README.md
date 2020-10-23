@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Edward</h1>
+<h1>Hi 👋, I'm Ed</h1>
 <h3>REMOTE SENIOR JAVA SOFTWARE ENGINEER</h3>
 
 <p>Solution-driven Java EE Software Engineer with over 14 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.</p>
