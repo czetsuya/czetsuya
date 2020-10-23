@@ -64,8 +64,8 @@
 	</a>
 </p>
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true" alt="czetsuya" /> - Since Oct 2020
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true" alt="czetsuya" />
 </p>
 <p align="left">
-	<img src="https://komarev.com/ghpvc/?username=czetsuya&label=Profile%20views&color=0e75b6&style=flat" alt="czetsuya" />
+	<img src="https://komarev.com/ghpvc/?username=czetsuya&label=Profile%20views&color=0e75b6&style=flat" alt="czetsuya" /> - Since Oct 2020
 </p>
