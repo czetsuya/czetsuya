@@ -11,8 +11,8 @@
 
 <p align="left">
 	<h3 align="left">Connect with me:</h3>
-	<a href="https://stackoverflow.com/users/12198209" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12198209" height="30" width="40" />
+	<a href="https://stackoverflow.com/users/689416" target="blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="689416" height="30" width="40" />
 	</a>
 	<a href="https://dribbble.com/czetsuya" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
