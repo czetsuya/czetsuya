@@ -90,7 +90,7 @@
 		<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 	</a>
 	<a href="https://wordpress.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="40" height="40"/>
 	</a>
 </p>
 <p>
