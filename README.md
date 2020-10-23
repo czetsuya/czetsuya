@@ -51,7 +51,7 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 	</a>
 	<a href="https://redux.js.org/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original-wordmark.svg" alt="react" width="40" height="40"/>
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="react" width="40" height="40"/>
 	</a>
 	<a href="https://angular.io/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -75,7 +75,7 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/bitbucket/bitbucket-original-wordmark.svg" alt="java" width="40" height="40"/>
 	</a>
 	<a href="https://travis-ci.com/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/travis/travis-original-wordmark.svg" alt="java" width="40" height="40"/>
+		<img src="https://devicons.github.io/devicon/devicon.git/icons/travis/travis-plain-wordmark.svg" alt="java" width="40" height="40"/>
 	</a>
 	<a href="https://aws.amazon.com/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
