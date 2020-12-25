@@ -1,4 +1,5 @@
-# Hi 👋, I'm Ed a REMOTE SENIOR JAVA SOFTWARE ENGINEER
+# Hi 👋, I'm Ed
+## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 
 [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
