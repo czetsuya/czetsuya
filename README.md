@@ -94,8 +94,16 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="40" height="40"/>
 	</a>
 </p>
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=czetsuya&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=czetsuya&hide=php&theme=tokyonight" />
+</a>
+</div>
 <p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true" alt="czetsuya" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true&theme=tokyonight" alt="czetsuya" />
 </p>
 <p align="left">
 	<img src="https://komarev.com/ghpvc/?username=czetsuya&label=Profile%20views&color=0e75b6&style=flat" alt="czetsuya" /> - Since Oct 2020
