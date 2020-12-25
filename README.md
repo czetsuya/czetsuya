@@ -13,6 +13,7 @@
 - 📫 How to reach me **eplegaspi07@gmail.com**
 
 ## :email: Find me on:
+
 <a href="https://www.linkedin.com/in/czetsuya" target="blank">
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
 </a>
@@ -37,6 +38,7 @@
 
 
 ## 🧰 Languages and Tools:
+
 <p align="left">
 	<a href="https://www.java.com/en/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
@@ -98,6 +100,7 @@
 </p>
 
 ## :trophy: My Github Stats:
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight" />
