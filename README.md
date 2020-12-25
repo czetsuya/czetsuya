@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Ed</h1>
 <h3>REMOTE SENIOR JAVA SOFTWARE ENGINEER</h3>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
 [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
 
 <p>Solution-driven Java EE Software Engineer with over 14 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.</p>
 
@@ -13,7 +13,7 @@
 - 📫 How to reach me **eplegaspi07@gmail.com**
 
 <p align="left">
-	<h3 align="left">Connect with me:</h3>
+	<h3 align="left">Find me on:</h3>
 	<a href="https://www.linkedin.com/in/czetsuya" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
 	</a>
