@@ -11,6 +11,7 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
 
 - 📫 How to reach me **eplegaspi07@gmail.com**
 <br />
+
 ## :email: Find me on:
 
 <a href="https://www.linkedin.com/in/czetsuya" target="blank">
@@ -35,6 +36,7 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
 </a>
 <br />
+
 ## 🧰 Languages and Tools:
 
 <a href="https://www.java.com/en/" target="_blank">
@@ -95,6 +97,7 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
 	<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="40" height="40"/>
 </a>
 <br />
+
 ## :trophy: My Github Stats:
 
 <div>
