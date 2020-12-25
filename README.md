@@ -3,6 +3,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya)
 [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
+<img src="https://komarev.com/ghpvc/?username=czetsuya&label=Profile%20views&color=0e75b6&style=flat" alt="czetsuya" /> - Since Oct 2020
 
 <p>Solution-driven Java EE Software Engineer with over 14 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.</p>
 
@@ -107,6 +108,3 @@
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true&theme=tokyonight" alt="czetsuya" />
 -->
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=czetsuya&label=Profile%20views&color=0e75b6&style=flat" alt="czetsuya" /> - Since Oct 2020
-</p>
