@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Ed</h1>
-![](https://visitor-badge.laobi.icu/badge?page_id=czetsuya)
-[![Github](https://img.shields.io/github/followers/czetsuya?label=Follow&style=social)](https://github.com/czetsuya)
+![](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
 <h3>REMOTE SENIOR JAVA SOFTWARE ENGINEER</h3>
 
 <p>Solution-driven Java EE Software Engineer with over 14 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.</p>
