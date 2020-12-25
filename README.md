@@ -36,6 +36,8 @@
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
 	</a>
 </p>
+
+## 🧰 Languages and Tools:
 <h3 align="left">Technical Skills:</h3>
 <p align="left">
 	<a href="https://www.java.com/en/" target="_blank">
@@ -96,6 +98,8 @@
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-original.svg" alt="nodejs" width="40" height="40"/>
 	</a>
 </p>
+
+## :trophy: My Github Stats:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight" />
