@@ -12,33 +12,31 @@
 
 - 📫 How to reach me **eplegaspi07@gmail.com**
 
-<p align="left">
-	<h3 align="left">Find me on:</h3>
-	<a href="https://www.linkedin.com/in/czetsuya" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
-	</a>
-	<a href="https://www.facebook.com/czetsuya" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="689416" height="30" width="40" />
-	</a>
-	<a href="https://stackoverflow.com/users/689416" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="689416" height="30" width="40" />
-	</a>
-	<a href="https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="689416" height="30" width="40" />
-	</a>
-	<a href="http://twitter.com/czetsuya" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="689416" height="30" width="40" />
-	</a>
-	<a href="http://czetsuya-tech.blogspot.com/" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="689416" height="30" width="40" />
-	</a>	
-	<a href="https://dribbble.com/czetsuya" target="blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
-	</a>
-</p>
+## :email: Find me on:
+<a href="https://www.linkedin.com/in/czetsuya" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/czetsuya" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="689416" height="30" width="40" />
+</a>
+<a href="https://stackoverflow.com/users/689416" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="689416" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="689416" height="30" width="40" />
+</a>
+<a href="http://twitter.com/czetsuya" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="689416" height="30" width="40" />
+</a>
+<a href="http://czetsuya-tech.blogspot.com/" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="689416" height="30" width="40" />
+</a>	
+<a href="https://dribbble.com/czetsuya" target="blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
+</a>
+
 
 ## 🧰 Languages and Tools:
-<h3 align="left">Technical Skills:</h3>
 <p align="left">
 	<a href="https://www.java.com/en/" target="_blank">
 		<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
