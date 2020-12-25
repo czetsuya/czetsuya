@@ -10,7 +10,7 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
 </p>
 
 - 📫 How to reach me **eplegaspi07@gmail.com**
-<br />
+
 
 ## :email: Find me on:
 
