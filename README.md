@@ -10,6 +10,7 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
   <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya" alt="czetsuya" /></a> 
 </p>
 
+- 📫 Secondary Repository <a href="https://gitlab.com/czetsuya">https://gitlab.com/czetsuya</a>
 - 📫 How to reach me **eplegaspi2@alum.up.edu.ph**
 
 
