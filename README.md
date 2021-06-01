@@ -1,5 +1,6 @@
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
+*If you would like to support these tutorials, you can contribute to my [Patreon account](https://patreon.com/czetsuya)
 
 [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
