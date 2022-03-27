@@ -1,6 +1,7 @@
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 *If you would like to support these tutorials, you can contribute to my [Patreon account](https://patreon.com/czetsuya)
+*<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('By me a coffee', '#29abe0', 'S6S0YXPX');kofiwidget2.draw();</script>
 
 [![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
