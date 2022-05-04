@@ -15,7 +15,7 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 ## 📫 How to reach me
 - **eplegaspi2@alum.up.edu.ph**
 
-## :email: Find me on:
+## :email: Find me on
 
 <a href="https://www.linkedin.com/in/czetsuya" target="blank">
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
@@ -39,7 +39,7 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
 </a>
 
-## :trophy: My Github Stats:
+## :trophy: My Github Stats
 
 <div>
 	<a href="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight">
