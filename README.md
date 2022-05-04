@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
-Solution-driven Java EE Software Engineer with over 14 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
+Solution-driven Java EE Software Engineer with over 15 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
 * 💰 If you would like to support these tutorials, you can contribute to my [Patreon account](https://www.patreon.com/czetsuya)
 * ☕️ Buy me a coffee [Ko-Fi](https://www.ko-fi.com/czetsuya)
@@ -12,9 +12,8 @@ Solution-driven Java EE Software Engineer with over 14 years track record of dev
   <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya" alt="czetsuya" /></a> 
 </p>
 
-- 📫 Secondary Repository <a href="https://gitlab.com/czetsuya">https://gitlab.com/czetsuya</a>
-- 📫 How to reach me **eplegaspi2@alum.up.edu.ph**
-
+## 📫 How to reach me
+- **eplegaspi2@alum.up.edu.ph**
 
 ## :email: Find me on:
 
