@@ -1,3 +1,13 @@
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=czetsuya" alt="czetsuya" /> 
+    <img src="https://img.shields.io/github/followers/czetsuya?style=social" />
+    <img src="https://img.shields.io/github/stars/czetsuya/czetsuya?style=social" />
+    <img src="https://img.shields.io/github/watchers/czetsuya/czetsuya?style=social" />
+    <img src="https://img.shields.io/github/size/czetsuya/czetsuya/README.md" />
+    <img src="https://img.shields.io/github/last-commit/czetsuya/czetsuya" />
+    <img src="https://img.shields.io/github/contributors/czetsuya/czetsuya" />
+</p>
+
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 Solution-driven Java EE Software Engineer with over 15 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java EE technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
