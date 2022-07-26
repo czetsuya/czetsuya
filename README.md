@@ -15,7 +15,6 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 * 💰 If you would like to support these tutorials, you can contribute to my [Patreon account](https://www.patreon.com/czetsuya)
 * ☕️ Buy me a coffee [Ko-Fi](https://www.ko-fi.com/czetsuya)
 
-[![Github](https://img.shields.io/github/followers/czetsuya?label=Followers&logo=Github)](https://github.com/czetsuya)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
 
 <p>
