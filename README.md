@@ -18,7 +18,7 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
 
 <p>
-  <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya" alt="czetsuya" /></a> 
+  <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
 </p>
 
 ## 📫 How to reach me
