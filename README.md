@@ -1,4 +1,5 @@
 <p align="left"> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=czetsuya" alt="czetsuya" />
     <img src="https://komarev.com/ghpvc/?username=czetsuya" alt="czetsuya" /> 
     <img src="https://img.shields.io/github/followers/czetsuya?style=social" />
     <img src="https://img.shields.io/github/stars/czetsuya/czetsuya?style=social" />
@@ -14,8 +15,6 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 
 * 💰 If you would like to support these tutorials, you can contribute to my [Patreon account](https://www.patreon.com/czetsuya)
 * ☕️ Buy me a coffee [Ko-Fi](https://www.ko-fi.com/czetsuya)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=czetsuya) - Since Dec 2020
 
 <p>
   <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
