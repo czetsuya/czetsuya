@@ -51,11 +51,17 @@ Solution-driven Java EE Software Engineer with over 15 years track record of dev
 ## :trophy: My Github Stats
 
 <div>
-	<a href="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight">
-	  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=czetsuya&count_private=true&show_icons=true&theme=tokyonight" />
+	<a href="https://github.com/czetsuya">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czetsuya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 	</a>
-	<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=czetsuya&hide=php&theme=tokyonight">
-	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czetsuya&hide=php&theme=tokyonight" />
+
+	<a href="https://github.com/czetsuya">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="czetsuya's GitHub Stats" />
+	</a>
+
+
+	<a href="https://github.com/czetsuya">
+	  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=czetsuya&theme=dark" alt="czetsuya's GitHub Stats" />
 	</a>
 </div>
 <!--
