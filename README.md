@@ -1,5 +1,4 @@
 <p align="left"> 
-    <img src="https://github.com/sponsors/czetsuya/button" alt="Sponsor" height="35" width="116" />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=czetsuya" alt="czetsuya" />
     <img src="https://komarev.com/ghpvc/?username=czetsuya" alt="czetsuya" /> 
     <img src="https://img.shields.io/github/followers/czetsuya?style=social" />
