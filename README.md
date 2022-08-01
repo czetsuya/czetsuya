@@ -13,8 +13,7 @@
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 Hi. I'm Ed a Solution-driven Java EE Software Engineer with over 15 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
-* 💰 If you would like to support these tutorials, you can contribute to my [Patreon account](https://www.patreon.com/czetsuya)
-* ☕️ Buy me a coffee [Ko-Fi](https://www.ko-fi.com/czetsuya)
+* 💰 ☕️ If you would like to support these tutorials, you can become my [GitHub Sponsor](https://github.com/sponsors/czetsuya)
 
 <p>
   <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
