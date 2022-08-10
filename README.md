@@ -20,9 +20,12 @@ Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years 
 </p>
 
 ## 📫 How to reach me
-- eplegaspi2@alum.up.edu.ph
-- https://www.linkedin.com/in/czetsuya
-
+- Email: eplegaspi2@alum.up.edu.ph
+- [Linkedin](https://www.linkedin.com/in/czetsuya)
+- [StackOverflow](https://stackoverflow.com/users/689416)
+- [Youtube](https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg)
+- [Blog](http://www.czetsuyatech.com)
+	
 ## :email: Find me on
 
 <a href="https://www.linkedin.com/in/czetsuya" target="blank">
