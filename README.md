@@ -20,10 +20,6 @@ Thank you for showing that you care. I'm also offering my programming services i
 
 💰 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
-<p>
-  <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
-</p>
-
 ## 📫 How to reach me
 - Email: eplegaspi2@alum.up.edu.ph
 - [Linkedin](https://www.linkedin.com/in/czetsuya)
@@ -33,6 +29,10 @@ Thank you for showing that you care. I'm also offering my programming services i
 
 ## :trophy: My Github Stats
 
+<p>
+  <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
+</p>
+    
 <a href="https://github.com/czetsuya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czetsuya&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
