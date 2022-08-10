@@ -25,30 +25,6 @@ Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years 
 - [StackOverflow](https://stackoverflow.com/users/689416)
 - [Youtube](https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg)
 - [Blog](http://www.czetsuyatech.com)
-	
-## :email: Find me on
-
-<a href="https://www.linkedin.com/in/czetsuya" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="689416" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/czetsuya" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="689416" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/689416" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="689416" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="689416" height="30" width="40" />
-</a>
-<a href="http://twitter.com/czetsuya" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="689416" height="30" width="40" />
-</a>
-<a href="http://czetsuya-tech.blogspot.com/" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg" alt="689416" height="30" width="40" />
-</a>	
-<a href="https://dribbble.com/czetsuya" target="blank">
-	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="czetsuya" height="30" width="40" />
-</a>
 
 ## :trophy: My Github Stats
 
