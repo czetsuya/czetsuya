@@ -11,11 +11,9 @@
 
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
-Hi. I'm Ed a Solution-driven Java EE Software Engineer with over 15 years track record of developing complex enterprise application systems for fintech, billing system, payment gateway, cybersecurity, and e-commerce using Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
+Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years of track record developing complex enterprise application systems for fintech, billing systems, payment gateway, cybersecurity, and e-commerce using the Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
-* 💰 ☕️ If you would like to support these tutorials, you can become my [GitHub Sponsor](https://github.com/sponsors/czetsuya)
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
+* 💰 ☕️ If you would like to support these tutorials, you can become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
 <p>
   <a href="https://github.com/czetsuya/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czetsuya&theme=onedark" alt="czetsuya" />
