@@ -16,7 +16,9 @@ Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years 
 ## 🤝Support and Sponsorship
 With your support, I'll be able to produce more well-researched and high-quality learning videos and blog articles. It will validate that what I'm doing is relevant and motivate me to do more content for the developer community.
 
-Thank you for showing that you care. I'm also offering my programming services in tiers.
+Thank you for showing that you care. 
+
+PS: I'm also offering my programming services in tiers.
 
 💰 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
