@@ -20,7 +20,7 @@ Thank you for showing that you care.
 
 PS: I'm also offering my programming services in tiers.
 
-💰 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
+☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
 ## 📫 How to reach me
 - Email: eplegaspi2@alum.up.edu.ph
@@ -42,7 +42,6 @@ PS: I'm also offering my programming services in tiers.
 <a href="https://github.com/czetsuya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=czetsuya&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="czetsuya's GitHub Stats" />
 </a>
-
 
 <a href="https://github.com/czetsuya">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=czetsuya&theme=dark" alt="czetsuya's GitHub Stats" />
