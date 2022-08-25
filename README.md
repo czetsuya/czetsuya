@@ -23,7 +23,7 @@ PS: I'm also offering my programming services in tiers.
 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
 ## 📫 How to reach me
-- Email: eplegaspi2@alum.up.edu.ph
+- [Email](eplegaspi2@alum.up.edu.ph)
 - [Linkedin](https://www.linkedin.com/in/czetsuya)
 - [StackOverflow](https://stackoverflow.com/users/689416)
 - [Youtube](https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg)
