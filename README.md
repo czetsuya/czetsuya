@@ -14,7 +14,7 @@
 Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years of track record developing complex enterprise application systems for fintech, billing systems, payment gateway, cybersecurity, and e-commerce using the Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
 ## 🤝Support and Sponsorship
-With your support, I'll be able to produce more well-researched and high-quality learning videos and blog articles. It will validate that what I'm doing is relevant and motivate me to do more content for the developer community.
+With your support, I'll be able to produce more well-researched and high-quality learning videos, blog articles, and codes. I will also be able to continue working on both my open-source and private projects for the developer community.
 
 Thank you for showing that you care. 
 
