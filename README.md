@@ -18,8 +18,6 @@ With your support, I'll be able to produce more well-researched and high-quality
 
 Thank you for showing that you care. 
 
-PS: I'm also offering my programming services in tiers.
-
 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
 
 ## 📫 How to reach me
