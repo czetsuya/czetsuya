@@ -13,6 +13,22 @@
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years of track record developing complex enterprise application systems for fintech, billing systems, payment gateway, cybersecurity, and e-commerce using the Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
+## 🔖 Blog Articles
+- [Beginner and advanced programming and software engineering design and development concepts](https://www.czetsuyatech.com/search/label/Computer%20Science%20Series)
+- [Microservice with Spring Cloud](https://www.czetsuyatech.com/search?q=microservice)
+- [Serverless with AWS Lambda / Quarkus](https://www.czetsuyatech.com/search/label/serverless)
+- [Identity and Access Management - Keycloak, Cognito](https://www.czetsuyatech.com/search/label/Authentication%20Server%20Series)
+- [Backend programming with Spring](https://www.czetsuyatech.com/search/label/spring)
+- [Backend programming with Quarkus](https://www.czetsuyatech.com/search/label/quarkus)
+- [Frontend programming with React and Angular](https://www.czetsuyatech.com/search/label/frontend)
+- [Database with PostgreSQL, MySQL, Liquibase, Flyway](https://www.czetsuyatech.com/search/label/Database%20Series)
+- [Event streaming with Kafka](https://www.czetsuyatech.com/search/label/event-streaming)
+- [Sourcecode management with Git, GitHub, Maven, GitLab](https://www.czetsuyatech.com/search/label/source-code-management)
+- [Containers with Docker, Docker-Compose](https://www.czetsuyatech.com/search/label/Container%20Series)
+- [Cloud with AWS/GCP services](https://www.czetsuyatech.com/search/label/Cloud%20Computing%20Series)
+- [DevOps](https://www.czetsuyatech.com/search/label/devops)
+- [Application Servers](https://www.czetsuyatech.com/search/label/Computer%20Science%20Series)
+
 ## 🤝Support and Sponsorship
 With your support, I'll be able to produce more well-researched and high-quality learning videos, blog articles, and codes. I will also be able to continue working on both my open-source and private projects for the developer community.
 
