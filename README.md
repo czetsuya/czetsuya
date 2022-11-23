@@ -11,7 +11,7 @@
 
 # OpenToWork
 
-Hi everyone - I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+Hi everyone - I am looking for a new role as a Senior Java Developer and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
 
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
