@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/github/contributors/czetsuya/czetsuya" />
 </p>
 
+# OpenToWork
+
+Hi everyone - I am looking for a new role and would appreciate your support. Thank you in advance for any connections, advice, or opportunities you can offer.
+
 # Hi 👋, I'm Ed
 ## REMOTE SENIOR JAVA SOFTWARE ENGINEER
 Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years of track record developing complex enterprise application systems for fintech, billing systems, payment gateway, cybersecurity, and e-commerce using the Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
