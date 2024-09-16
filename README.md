@@ -1,3 +1,20 @@
+# Service
+## About
+Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with 15+ years in fintech, billing, payment gateways, cybersecurity, and e-commerce, I specialize in crafting high-performance Java EE applications.
+Tailoring solutions to your needs, I optimize performance, enhance security, and streamline workflows.
+Collaborative by nature, I seamlessly integrate with your team to exceed expectations while upholding Object-Oriented Programming principles.
+Partner with me today to unlock your enterprise's full potential. Let's make your vision a reality!
+## Services Provided
+- IT Consulting
+- Custom Software Development
+## Tech Stack & Architecture
+- Java / Spring Boot / AWS / GitHub
+- Microservice / Domain Drivent / Event Driven
+## 📫 How to reach me
+You can book my services at:
+- [Linkedin](https://www.linkedin.com/services/page/1401473129219116a0)
+- <a href="mailto:czetsuya@gmail.com">Email</a>
+
 <p align="left"> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=czetsuya" alt="czetsuya" />
     <img src="https://komarev.com/ghpvc/?username=czetsuya" alt="czetsuya" /> 
@@ -8,10 +25,6 @@
     <img src="https://img.shields.io/github/last-commit/czetsuya/czetsuya" />
     <img src="https://img.shields.io/github/contributors/czetsuya/czetsuya" />
 </p>
-
-# Hi 👋, I'm Ed
-## REMOTE SENIOR JAVA SOFTWARE ENGINEER
-Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years of track record developing complex enterprise application systems for fintech, billing systems, payment gateway, cybersecurity, and e-commerce using the Java technology stack. Adept at contributing to a highly collaborative work environment and finding technical solutions using Object-Oriented Programming.
 
 ## 🔖 Blog Articles
 - [Beginner and advanced programming and software engineering design and development concepts](https://www.czetsuyatech.com/search/label/Computer%20Science%20Series)
@@ -28,6 +41,7 @@ Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with over 15 years 
 - [Cloud with AWS/GCP services](https://www.czetsuyatech.com/search/label/Cloud%20Computing%20Series)
 - [DevOps](https://www.czetsuyatech.com/search/label/devops)
 - [Application Servers](https://www.czetsuyatech.com/search/label/Computer%20Science%20Series)
+- [Read More](http://www.czetsuyatech.com)
 
 ## 🤝Support and Sponsorship
 With your support, I'll be able to produce more well-researched and high-quality learning videos, blog articles, and codes. I will also be able to continue working on both my open-source and private projects for the developer community.
@@ -35,13 +49,6 @@ With your support, I'll be able to produce more well-researched and high-quality
 Thank you for showing that you care. 
 
 ☕️ Become my [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/czetsuya)
-
-## 📫 How to reach me
-- <a href="mailto:eplegaspi2@alum.up.edu.ph">Email</a>  
-- [Linkedin](https://www.linkedin.com/in/czetsuya)
-- [StackOverflow](https://stackoverflow.com/users/689416)
-- [Youtube](https://www.youtube.com/channel/UCohlQvNpYzRzPWZTX5mBSsg)
-- [Blog](http://www.czetsuyatech.com)
 
 ## :trophy: My Github Stats
 
