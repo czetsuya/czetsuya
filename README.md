@@ -1,13 +1,13 @@
 # Service
 ## About
-Hi. I'm Ed, a Solution-driven Java Backend Software Engineer with 15+ years in fintech, billing, payment gateways, cybersecurity, and e-commerce, I specialize in crafting high-performance Java EE applications.
+Hi 👋. I'm Ed, a Solution-driven Java Backend Software Engineer with 15+ years in fintech, billing, payment gateways, cybersecurity, and e-commerce, I specialize in crafting high-performance Java EE applications.
 Tailoring solutions to your needs, I optimize performance, enhance security, and streamline workflows.
 Collaborative by nature, I seamlessly integrate with your team to exceed expectations while upholding Object-Oriented Programming principles.
 Partner with me today to unlock your enterprise's full potential. Let's make your vision a reality!
-## Services Provided
+## 🪙 Services Provided
 - IT Consulting
 - Custom Software Development
-## Tech Stack & Architecture
+## 🚀 Tech Stack & Architecture
 - Java / Spring Boot / AWS / GitHub
 - Microservice / Domain Drivent / Event Driven
 ## 📫 How to reach me
